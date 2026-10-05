@@ -1,0 +1,14 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Tomy-Phillip", "url": "https://github.com/Tomy-Phillip" },
+  "metadata": { "description": "Tomy-Phillip's Claude Code mods", "version": "0.1.0" },
+  "plugins": [
+    {
+      "name": "explorai-loading",
+      "source": "./plugins/explorai-loading",
+      "description": "Shows the Explorai logo above the prompt, filling with brand colors as Claude completes its tasks, with a dancer beside it.",
+      "version": "0.3.0",
+      "author": { "name": "Tomy-Phillip" }
+    }
+  ]
+}

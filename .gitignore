@@ -1,0 +1,4 @@
+# Types the engine writes beside a loaded mod
+plugins/*/.claude-plugin/types/
+plugins/*/tsconfig.json
+__pycache__/

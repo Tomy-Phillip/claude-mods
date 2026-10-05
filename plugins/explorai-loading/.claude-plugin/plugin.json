@@ -1,0 +1,6 @@
+{
+  "name": "explorai-loading",
+  "version": "0.3.0",
+  "description": "Shows the Explorai logo above the prompt, filling with brand colors as Claude completes its tasks, with a dancer beside it.",
+  "author": { "name": "Tomy-Phillip" }
+}
